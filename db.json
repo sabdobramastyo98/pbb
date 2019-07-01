@@ -1,0 +1,94 @@
+{
+  "pbb" : [
+    {
+      "id" : 1,
+      "soal" : "Objek pajak yang tidak dikenakan Pajak Bumi dan Bangunan adalah ...",
+      "jawabana" : "Jalan tol",
+      "jawabanb" : "Masjid",
+      "jawabanc" : "Kolam renang",
+      "jawaband" : "Pagar mewah",
+      "kuncijawaban" : ""
+    },
+    {
+      "id" : 2,
+      "soal" : "Tuan Ahmad membeli sebidang tanah seluas 200 m2 dengan harga perolehan Rp 200.000.000, dengan tarif regional untuk NPOPTKP Rp 50.000.000. Atas pembelian tersebut, berapa BPHTB yang harus dibayar Tuan Ahmad ?",
+      "jawabana" : "Rp 5.000.000",
+      "jawabanb" : "Rp 7.500.000",
+      "jawabanc" : "Rp 8.000.000",
+      "jawaband" : "Rp 6.000.000",
+      "kuncijawaban" : ""
+    },
+    {
+      "id" : 3,
+      "soal" : "Pak Rudi memiliki rumah seluas 50 m2 yang berdiri di atas sebidang tanah seluas 100 m2. Diketahui harga bangunan tersebut adalah Rp500.000,-/m sedangkan harga tanah tersebut adalah Rp 1.000.000,- /m. Berapakah PBB yang harus dibayarkan oleh Pak Rudi ?",
+      "jawabana" : "Rp125.000,-",
+      "jawabanb" : "Rp150.000,-",
+      "jawabanc" : "Rp130.000,-",
+      "jawaband" : "Rp120.000,-",
+      "kuncijawaban" : ""
+    },
+    {
+      "id" : 4,
+      "soal" : "Besarnya persentase jika NJKP < 1 Milyar adalah sebesar ...",
+      "jawabana" : "20 %",
+      "jawabanb" : "40 %",
+      "jawabanc" : "30 %",
+      "jawaband" : "25 %",
+      "kuncijawaban" : ""
+    },
+    {
+      "id" : 5,
+      "soal" : "Besarnya persentase jika NJKP > 1 Milyar adalah sebesar ...",
+      "jawabana" : "20 %",
+      "jawabanb" : "40 %",
+      "jawabanc" : "30 %",
+      "jawaband" : "25 %",
+      "kuncijawaban" : ""
+    },
+    {
+      "id" : 6,
+      "soal" : "Pajak Bumi dan Bangunan (PBB) adalah pajak Negara yang dikenakan terhadap bumi dan/atau bangunan berdasarkan Undang-Undang No. 12 Tahun 1985 tentang Bumi dan Bangunan sebagaimana telah diubah terakhir dengan ...",
+      "jawabana" : "Undang-Undang No. 12 Tahun 1994.",
+      "jawabanb" : "Undang –Undang No 12 Tahun 1989",
+      "jawabanc" : "Undang –Undang No 12 Tahun 1993",
+      "jawaband" : "Undang –Undang No 12 Tahun 1990",
+      "kuncijawaban" : ""
+    },
+    {
+      "id" : 7,
+      "soal" : "Tuan Mabrur memiliki rumah di Jakarta dengan NJOP Bumi 500 m2 @Rp10.000.000,-, NJOP Bangunan 300 m2 @Rp3.000.000,-, NJOPTKP sebesar Rp12.000.000,-. Hitunglah besarnya PBB atas rumah di Jakarta tersebut!",
+      "jawabana" : "Rp11.800.000,-",
+      "jawabanb" : "Rp11.000.000,-",
+      "jawabanc" : "Rp.12.000.000,-",
+      "jawaband" : "Rp11.500.000,-",
+      "kuncijawaban" : ""
+    },
+    {
+      "id" : 8,
+      "soal" : "Pada tanggal 30 Desember 2018 Tuan Budi membeli tanah 500 m2 seharga Rp500.000.000,- Pada tanggal 5 Januari 2019 dibangun rumah beserta kelengkapannya 300 m2 dengan biaya Rp300.000.000,- NJOP tanah termasuk klasifikasi kelompok A-15 sebesar Rp1.032.000,-/m2 dan bangunan termasuk klasifikasi kelompok A-2 sebesar Rp968.000,-/m2. NJOPTKP di daerah tersebut adalah Rp10.000.000,-. Hitunglah besarnya NJOP dan PBB Tuan Budi tahun 2019!",
+      "jawabana" : "Rp504.000,-",
+      "jawabanb" : "Rp504.600,-",
+      "jawabanc" : "Rp504.000,-",
+      "jawaband" : "Rp506.000,-",
+      "kuncijawaban" : ""
+    },
+    {
+      "id" : 9,
+      "soal" : "Tarif pajak untuk Objek Pajak Perkebunan, Kehutanan, dan Pertambangan adalah sebesar ...",
+      "jawabana" : "40%",
+      "jawabanb" : "20%",
+      "jawabanc" : "10%",
+      "jawaband" : "5%",
+      "kuncijawaban" : ""
+    },
+    {
+      "id" : 10,
+      "soal" : "Tuan Alex mempunyai sebidang tanah dengan panjang 100 m dan lebar 20 m. NJOP tanah tersebut Rp30.000.000,- dan NJOPTKP daerah tersebut  Rp12.000.000,- Hitunglah PBB yang harus dibayar oleh Tuan Alex!",
+      "jawabana" : "Rp30.000",
+      "jawabanb" : "Rp18.000",
+      "jawabanc" : "Rp16.000",
+      "jawaband" : "Rp12.000",
+      "kuncijawaban" : ""
+    }
+  ]
+  }
