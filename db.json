@@ -7,7 +7,7 @@
       "jawabanb" : "Masjid",
       "jawabanc" : "Kolam renang",
       "jawaband" : "Pagar mewah",
-      "kuncijawaban" : ""
+      "kuncijawaban" : "Masjid"
     },
     {
       "id" : 2,
@@ -16,7 +16,7 @@
       "jawabanb" : "Rp 7.500.000",
       "jawabanc" : "Rp 8.000.000",
       "jawaband" : "Rp 6.000.000",
-      "kuncijawaban" : ""
+      "kuncijawaban" : "Rp 7.500.000"
     },
     {
       "id" : 3,
@@ -25,7 +25,7 @@
       "jawabanb" : "Rp150.000,-",
       "jawabanc" : "Rp130.000,-",
       "jawaband" : "Rp120.000,-",
-      "kuncijawaban" : ""
+      "kuncijawaban" : "Rp125.000,-"
     },
     {
       "id" : 4,
@@ -34,7 +34,7 @@
       "jawabanb" : "40 %",
       "jawabanc" : "30 %",
       "jawaband" : "25 %",
-      "kuncijawaban" : ""
+      "kuncijawaban" : "20 %"
     },
     {
       "id" : 5,
@@ -43,25 +43,25 @@
       "jawabanb" : "40 %",
       "jawabanc" : "30 %",
       "jawaband" : "25 %",
-      "kuncijawaban" : ""
+      "kuncijawaban" : "40 %"
     },
     {
       "id" : 6,
       "soal" : "Pajak Bumi dan Bangunan (PBB) adalah pajak Negara yang dikenakan terhadap bumi dan/atau bangunan berdasarkan Undang-Undang No. 12 Tahun 1985 tentang Bumi dan Bangunan sebagaimana telah diubah terakhir dengan ...",
-      "jawabana" : "Undang-Undang No. 12 Tahun 1994.",
+      "jawabana" : "Undang-Undang No. 12 Tahun 1994",
       "jawabanb" : "Undang –Undang No 12 Tahun 1989",
       "jawabanc" : "Undang –Undang No 12 Tahun 1993",
       "jawaband" : "Undang –Undang No 12 Tahun 1990",
-      "kuncijawaban" : ""
+      "kuncijawaban" : "Undang-Undang No. 12 Tahun 1994"
     },
     {
       "id" : 7,
       "soal" : "Tuan Mabrur memiliki rumah di Jakarta dengan NJOP Bumi 500 m2 @Rp10.000.000,-, NJOP Bangunan 300 m2 @Rp3.000.000,-, NJOPTKP sebesar Rp12.000.000,-. Hitunglah besarnya PBB atas rumah di Jakarta tersebut!",
-      "jawabana" : "Rp11.800.000,-",
+      "jawabana" : "Rp11.776.000,-",
       "jawabanb" : "Rp11.000.000,-",
       "jawabanc" : "Rp.12.000.000,-",
       "jawaband" : "Rp11.500.000,-",
-      "kuncijawaban" : ""
+      "kuncijawaban" : "Rp11.776.000,-"
     },
     {
       "id" : 8,
@@ -70,7 +70,7 @@
       "jawabanb" : "Rp504.600,-",
       "jawabanc" : "Rp504.000,-",
       "jawaband" : "Rp506.000,-",
-      "kuncijawaban" : ""
+      "kuncijawaban" : "Rp506.000,-"
     },
     {
       "id" : 9,
@@ -79,7 +79,7 @@
       "jawabanb" : "20%",
       "jawabanc" : "10%",
       "jawaband" : "5%",
-      "kuncijawaban" : ""
+      "kuncijawaban" : "40%"
     },
     {
       "id" : 10,
@@ -88,7 +88,7 @@
       "jawabanb" : "Rp18.000",
       "jawabanc" : "Rp16.000",
       "jawaband" : "Rp12.000",
-      "kuncijawaban" : ""
+      "kuncijawaban" : "Rp18.000"
     }
   ]
-  }
+ }
